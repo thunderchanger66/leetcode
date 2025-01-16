@@ -7,10 +7,11 @@
 #include <unordered_set>
 #include <queue>
 #include <stdint.h>
-using namespace std;
+//using namespace std;
 
 int main()
 {
-    cout<<"Hello World"<<endl;
+    std::queue<int> q;
+    std::cout<<"Hello World"<<std::endl;
     return 0;
 }
